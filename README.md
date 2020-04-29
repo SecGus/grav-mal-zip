@@ -1,5 +1,7 @@
 # Malicious Zip to achieve RCE on Grav CMS if authenticated.
 
+## Tested on Grav CMS v1.6.24 - Admin v1.9.14 
+
 Usage:
 1. Download ZIP
 2. Log in to the CMS
